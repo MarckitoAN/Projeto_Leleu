@@ -8,8 +8,8 @@
 - Produtos (Cadastro, Leitura, Atualizações e Exclusão);
 - Carrinho de Compras dinâmico (por exemplo, se eu adicionar produtos, deve ser atualizado o total);
 
-- LOJA DE COMISSIONS
- A ideia principal é ser uma loja estilo enjoei aonde artistas independentes possam vender suas artes.
+- LOJA DE ROUPA
+ A ideia principal é ser uma loja de roupas...
  (Ainda sem nome, cor, logo...)
 
 - Data de Entrega: 26/11
